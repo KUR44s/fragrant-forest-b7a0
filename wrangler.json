@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "fragrant-forest-b7a0",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e03ee6a3-3e84-475e-a132-4e4aa77fe0eb",
+      "database_name": "frosty-truth-07f5-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
